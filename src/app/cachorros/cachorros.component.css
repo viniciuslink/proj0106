@@ -1,0 +1,22 @@
+#painel{
+    margin:0 auto;
+    padding: 0;
+    top: 50px;
+}
+
+.cartao{
+    display: inline-block;
+    margin: 0;
+    padding: 4;
+    margin-top: 80px;
+    
+}
+
+.cartao img{
+    height: 300px;
+    width: 400px;
+}
+
+.cartao h1{
+    text-align: center;
+}
